@@ -1,0 +1,7 @@
+{
+  "name": "Raitha Mitra - Farmer Assistant",
+  "description": "A comprehensive platform for farmers to access government schemes and chat with an AI assistant in Kannada/English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
